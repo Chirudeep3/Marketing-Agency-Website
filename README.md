@@ -1,11 +1,7 @@
-![Edgy](https://github.com/catherineisonline/edgy/blob/main/public/project-preview.png?raw=true)
 
-# [Edgy](https://edgy-media.vercel.app/) - #1 Instagram Growth Agency
+# [Edgy](https://edgy-media.vercel.app/) - Instagram Growth Agency
 
 
-[![GitHub license](https://img.shields.io/github/license/catherineisonline/edgy)](https://github.com/catherineisonline/edgy/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/catherineisonline/edgy)](https://github.com/catherineisonline/edgy/issues)
-[![GitHub stars](https://img.shields.io/github/stars/catherineisonline/edgy)](https://github.com/catherineisonline/edgy/stargazers)
 
 ## Introduction <a id="introduction"></a>
 Welcome to the Edgy Social Media Marketing Agency's full-stack website! At Edgy, we're not just a business; we're your partners in navigating the dynamic landscape of Instagram marketing. Whether you're a budding influencer or a business looking to boost your brand's online visibility, we're here to help you stand out in the digital crowd.
